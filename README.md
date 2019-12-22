@@ -29,3 +29,4 @@
 Ветка А0:
 ![Текст](https://github.com/DenisKolgatin/Lab/blob/master/https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%900.png)
 
+а
