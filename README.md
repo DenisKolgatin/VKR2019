@@ -41,3 +41,7 @@
 Ветка А31-А33:
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/7.png)
 
+Ветка А41-А43:
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9041.png)
+
+
