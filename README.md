@@ -27,6 +27,11 @@
 Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
 
 Ветка А0:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%900.png)
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
-а
+Ветка А1-А4:
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
+Ветка А11-А13:
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/https://github.com/DenisKolgatin/SkladForCurs/blob/master/3.png)
+Ветка А21-А22:
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/https://github.com/DenisKolgatin/SkladForCurs/blob/master/5.png)
