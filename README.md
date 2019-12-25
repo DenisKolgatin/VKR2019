@@ -45,3 +45,4 @@
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9041.png)
 
 
+ 
