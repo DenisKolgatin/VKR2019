@@ -56,7 +56,7 @@
 2. Разработка диаграмм в RAMUS
 Декомпозиция всех автоматизируемых блоков в DFD 
 #Декомпозиция блока A31(генерация задания): 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B031.png)
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B031dfd.png)
 #Декомпозиция блока A32(Выполнение задания): 
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B032.png)
 #Декомпозиция блока A33(Проверка и интеллектуальный анализ выполнения): 
