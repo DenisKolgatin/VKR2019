@@ -35,8 +35,8 @@
 Ветка А11-А13:
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B011.png)
 
-Ветка А21-А22:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B021.png)
+Ветка А21-А23:
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B021-23.png)
 
 Ветка А31-А33:
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B03.png)
