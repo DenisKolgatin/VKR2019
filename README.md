@@ -30,7 +30,7 @@
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/A02.png)
 
 Ветка А1-А4:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B01.png)
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/A1-3.png)
 
 Ветка А11-А13:
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B011.png)
