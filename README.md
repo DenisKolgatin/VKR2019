@@ -66,6 +66,7 @@
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%B033dfd.png)
 
 Построение ![ERD](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8%D0%A2%D0%B5%D0%BA%D1%81%D1%82)  для всех ролей:
+
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A0%D0%BE%D0%BB%D0%B8.png)
 
 Построение ERD для всех ролей::
