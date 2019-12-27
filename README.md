@@ -89,7 +89,7 @@
 
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5.png)
 
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/https://github.com/DenisKolgatin/SkladForCurs/blob/master/KLOK.png)
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/KLOK.png)
 
 
 
