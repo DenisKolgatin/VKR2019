@@ -42,7 +42,7 @@
 ![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/A3133(2).png)
 
 Ветка А41-А43:
-![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%9041.png)
+![Текст](https://github.com/DenisKolgatin/SkladForCurs/blob/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
 
 ### Лабораторная работа 5
  DFD диаграммы курсового проекта
